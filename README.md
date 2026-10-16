@@ -1,4 +1,4 @@
-cat > README.md <<'EOF'
+
 # Django Management System
 
 A Django project containing four apps for managing different types of
